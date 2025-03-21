@@ -19,7 +19,7 @@ This series consists of **Jupyter Notebooks** that systematically introduce Pyth
 Learning-Python-with-Eman/
 │-- notebooks/
 │   ├── 01_introduction_to_python.ipynb
-│   ├── 02_variables_and_data_types.ipynb
+│   ├── 02_operators.ipynb
 │   ├── 03_control_flow.ipynb
 │   ├── ...
 │   ├── advanced/
@@ -41,7 +41,7 @@ Learning-Python-with-Eman/
 ## ⚡ How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Learning-Python-with-Eman.git
+   git clone https://github.com/emanzahid17/python.git
    ```
 2. Install dependencies (if any):
    ```bash
@@ -57,8 +57,11 @@ Learning-Python-with-Eman/
 If you have suggestions, improvements, or additional Python problems to add, feel free to open a **Pull Request** or create an **Issue**.
 
 ## 📢 Connect with Me
-📌 YouTube: [Eman Zahid](https://www.youtube.com/yourchannel)
-📌 Twitter: [@EmanZahid](https://twitter.com/yourhandle)
-📌 LinkedIn: [Eman Zahid](https://linkedin.com/in/yourprofile)
+📌 YouTube: [Eman Zahid](https://www.youtube.com/@emanzahid17)
+
+📌 LinkedIn: [Eman Zahid](https://linkedin.com/in/eman-zahid-b384a6300)
 
 Happy Coding! 🚀🐍
+
+
+
