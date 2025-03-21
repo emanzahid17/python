@@ -33,10 +33,14 @@ Learning-Python-with-Eman/
 ```
 
 ## 🎯 Who Is This For?
-✅ Beginners who want to learn Python from scratch.
-✅ Intermediate learners looking to deepen their understanding.
-✅ Advanced users seeking to tackle challenging Python problems.
-✅ Data Science, AI, and Web Development enthusiasts.
+✅ Beginners who want to learn Python from scratch.  
+
+✅ Intermediate learners looking to deepen their understanding.  
+
+✅ Advanced users seeking to tackle challenging Python problems.  
+
+✅ Data Science, AI, and Web Development enthusiasts. 
+
 
 ## ⚡ How to Use
 1. Clone the repository:
